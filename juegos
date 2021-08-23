@@ -5,15 +5,18 @@
 
 # 0.0.0.0 example.com
 
-0.0.0.0 www.minijuegos.com
-0.0.0.0 www.minijuegos.es
-
-0.0.0.0 www.juegos.com
-
-0.0.0.0 www.pinturillo.com
-0.0.0.0 www.pinturillo2.com
-
+0.0.0.0 agar.io
+0.0.0.0 www.agar.io
+0.0.0.0 es.akinator.com
 0.0.0.0 gartic.io
 0.0.0.0 garticphone.com
-
-0.0.0.0 es.akinator.com
+0.0.0.0 juegos.com
+0.0.0.0 www.juegos.com
+0.0.0.0 minijuegos.com
+0.0.0.0 www.minijuegos.com
+0.0.0.0 minijuegos.es
+0.0.0.0 www.minijuegos.es
+0.0.0.0 pinturillo.com
+0.0.0.0 www.pinturillo.com
+0.0.0.0 pinturillo2.com
+0.0.0.0 www.pinturillo2.com
