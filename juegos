@@ -71,3 +71,7 @@
 0.0.0.0 www.minesweeper.online
 0.0.0.0 isladejuegos.com
 0.0.0.0 www.isladejuegos.com
+0.0.0.0 *.famobi.com
+0.0.0.0 famobi.com
+0.0.0.0 games.cdn.famobi.com
+0.0.0.0 html5games.com
